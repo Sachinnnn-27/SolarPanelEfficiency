@@ -1,0 +1,8 @@
+Name: Sachin
+Roll Number: 727823TUAM042
+MLflow Experiment Name: SolarPanelEfficiency_727823TUAM042
+Best Run ID: (copy from best run)
+Best Metric Value: (lowest mse)
+Azure Run ID: N/A
+GitHub URL: https://github.com/Sachinnnn-27/SolarPanelEfficiency
+Total Commits: 1
